@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1541104817 source:c:\users\dell\desktop\task 1\matrix\main.cpp
+	<iostream>
+	"matrix.h"
+
+1541104870 c:\users\dell\desktop\task 1\matrix\matrix.h
+	<vector>
+	<fstream>
+	<iostream>
+
+1541104817 source:c:\users\dell\desktop\fci - cs231 - 2018 - a2 - ta. laila mostafa - g3, 4 - 20170072 - 20170081 - 20170093\task 1\matrix\main.cpp
+	<iostream>
+	"matrix.h"
+
+1541107006 c:\users\dell\desktop\fci - cs231 - 2018 - a2 - ta. laila mostafa - g3, 4 - 20170072 - 20170081 - 20170093\task 1\matrix\matrix.h
+	<vector>
+	<fstream>
+	<iostream>
+
+1541105045 source:c:\users\dell\desktop\fci - cs231 - 2018 - a2 - ta. laila mostafa - g3, 4 - 20170072 - 20170081 - 20170093\task 1\matrix\matrix.cpp
+	<iostream>
+	<iomanip>
+	"matrix.h"
+
